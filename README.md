@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JunaidIQ
-- 👀 I’m interested in Web development, python programming, and IoT
-- 🌱 I’m currently learning Angular and Django
-- 💞️ I’m looking to collaborate on django related projects
-- 📫 Reach me at junaid.ji56@gmail.com
+Full Stack Software Engineer with a focus on creating impactful web applications and AI-driven solutions. Skilled in Angular, Django, Python. Passionate about System Design, LLMs, and Generative AI. Open to collaborating on innovative projects in AI, automation, and full-stack development.
+
+📫 junaid.ji56@gmail.com
 
 <!---
 JunaidIQ/JunaidIQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
